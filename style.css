@@ -1,0 +1,12 @@
+h1, p {
+    text-align: center;
+}
+
+#par1 {
+    margin-top: 35em;
+}
+
+#try_again {
+    color: black;
+    text-decoration: none;
+}
